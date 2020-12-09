@@ -1,0 +1,1 @@
+﻿* строка в awesome-feature

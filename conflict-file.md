@@ -1,1 +1,2 @@
-﻿* строка в master
+﻿* строка в awesome-feature
+* строка в master
